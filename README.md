@@ -1,2 +1,2 @@
-Eduards Teteris
+Eduards Teteris /n
 This is a vibe coded portfolio with codex to see how well it preforms with frontend.
